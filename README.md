@@ -1,7 +1,5 @@
 # int8x
 
----
-
 ##  Module Breakdown
 
 1. **Core Quantization Engine**  
