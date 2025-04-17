@@ -1,0 +1,14 @@
+INT8x/
+├── include/           # Public headers
+├── src/               # Core implementation
+│   ├── quant/         # Quantization logic
+│   ├── fixed/         # Fixed-point arithmetic
+│   ├── tensor/        # Tensor ops and GEMM
+│   ├── alloc/         # Memory management
+│   └── simd/          # SIMD kernels
+├── tests/             # Unit tests
+├── examples/          # End-to-end demos (C++, PyTorch, TFLite)
+├── benchmarks/        # Benchmarking tools
+├── docs/              # Design, usage, tutorials
+├── scripts/           # Build, install, profiling scripts
+└── CMakeLists.txt     # Build configuration
