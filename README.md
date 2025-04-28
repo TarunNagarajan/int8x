@@ -142,7 +142,6 @@
 | 138  | Aggregate final sweep data; identify optimal settings for paper inclusion                                                  |
 | 139  | Merge all polished code & docs into `main`; prepare for v3.0 roadmap                                                       |
 | 140  | Archive code snapshot (`docs/archive_snapshot.md`); ensure full reproducibility                                             |
-|------:|--------------------------------------------------------------------------------------|
 | 141   | Plan & script final hyperparam experiments across all new modules                   |
 | 142   | Run combined accuracy vs throughput vs energy experiments on selected models         |
 | 143   | Aggregate & analyze all results; draft `docs/experiment_results.md`                  |
