@@ -224,3 +224,5 @@
 | Hybrid GEMM-CIM Execution | Offload heavy tiles to CIM engine |
 | Training-Aware Calibration | Train with proxy for fixed-point error |
 | Noise-Injection Models | Simulate non-ideal behavior in CIM arrays |
+
+---
