@@ -1,4 +1,4 @@
-# Quantization & Mapping Engine for CiM Accelerators  
+# Hardware-Aware Quantization & Mapping Engine for CiM Accelerators  
 
 ## Days 1–40: Core Quantization, Fixed-Point, Tensor/GEMM & Basic Mapping
 
